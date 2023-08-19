@@ -1,0 +1,254 @@
+.logo{
+    background-color: #0d303e;
+    display: flex;
+    justify-content: space-evenly;
+}
+.one{
+    margin: 25px 0;
+}
+.a{
+    display: flex;
+    justify-content: end;
+    margin: 0 20px;
+}
+#icon img{
+    opacity:0.3;
+}
+#icon img:hover{
+            background-color: #0cc4ca;
+}
+.href1 nav a{
+        color: white;
+        text-decoration: none;
+        font-size: 15px;
+        cursor: pointer;
+        margin:  0 20px;
+}
+.href1 nav a:hover{
+    color: #0cc4ca;
+}
+
+.main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container1{
+    width: 45%;
+}
+.date a{
+    color: black;
+    text-decoration: none;
+    font-size: 10px;
+    margin: 2px;
+    opacity: 0.6;
+}
+.date a span{
+    font-size: 15px;
+    opacity: 0.6;
+}
+.sicon{
+    margin: 15px;
+}
+.para #a{
+    color: #0cc4ca;
+}
+.para a{
+    color: #0cc4ca;
+}
+.flex{
+    display: flex;
+}
+.flex1{
+    display: flex;
+}
+.color{
+    cursor: pointer;
+}
+.color:hover{
+    opacity: 0.5;
+}
+.para1{
+    font-size: 17px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.color1{
+    margin: 3px;
+    text-decoration: none;
+    color: #0cc4ca;
+}
+.oi{
+    background-image: url(placeholder.jpg);
+    width: 384px;
+    height: 256px;
+}
+.a1 a {
+    display: block;
+    font-size: 15px;
+    opacity: 0.6;
+}
+.a1 a span {
+    display: inline-block;
+    font-size: 15px;
+    opacity: 0.6;
+}
+
+
+.container2{
+    width: 29%;
+}
+.cat nav{
+    display: flex;
+    flex-direction: column;
+}
+.cat nav a{
+    margin: 7px 0;
+    text-decoration: none;
+    color: #30afb9;
+}
+.cat nav a:link{
+    color: #30afb9;
+}
+.cat nav a:hover{
+        color: #0ea8b3;
+        font-size: 20px;
+        cursor: pointer;
+}
+.pop img:hover{
+    opacity: 0.5;
+}
+.pop span {
+    color: black;
+    font-size: 15px;
+}
+.pop a {
+    color: #0ea8b3;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+.pop a:hover{
+    color: #0cc4ca;
+}
+.stay{
+    font-size: 15px;
+}
+.block{
+   opacity: 0.6;
+}
+
+.oi1{
+    background-image: url(placeholder.jpg);
+    width: 366px;
+    height: 244px;
+}
+.tag button{
+    background-color: #e9eef1;
+    margin: 5px;
+    border: 0;
+}
+.tag button:hover{
+    color: white;
+   background-color: #95adb8;
+    cursor: pointer;
+}
+.flex20{
+    display: flex;
+    justify-content: space-between;
+}
+.deco {
+    text-decoration: none;
+    opacity: 0.7;
+    color: black;
+}
+.end{
+    display: flex;
+    justify-content: end;
+    opacity: 0.6;
+    margin: 4px;
+}
+.end span:hover{
+       color:#0cc4ca;
+       cursor: pointer;
+}
+.box{
+    border: 1px solid black;
+}
+.box img{
+    margin: 8px;
+}
+.box1{
+    display: flex;
+}
+.box button span{
+    font-size: 10px;
+}
+.box button {
+    font-size: 10px;
+}
+i{
+    color: #0cc4ca;
+}
+.box p{
+    margin: 0 2px;
+}
+.imgbox a{
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+}
+.footer{
+    background-color: #e9eef1;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+.link1{
+    width: 24%;
+}
+.link1 a{
+    color: #0cc4ca;
+    text-decoration: none;
+}
+form #input{
+    width: 100%;
+    display: block;
+    margin: 16px;
+    border: 0;
+    padding: 7px;
+}
+form #input:hover{
+    border: 2px solid #0ea8b3;
+}
+form #one{
+    background-color: #0cc4ca;
+    border: 0;
+    color: white;
+    padding: 8px;
+}
+.link1 h4{
+    margin: 16px;
+}
+.one{
+    display: flex;
+    justify-content: end;
+}
+.two{
+    margin: 10px;
+}
+footer{
+    display: flex;
+    background-color: #0d303e;
+}
+.a2015{
+    color: white;
+    opacity: 0.6;
+    margin: 16px 330px;
+}
+footer pre{
+    color: white;
+    margin: 16px 100px;
+}
